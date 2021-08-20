@@ -1,5 +1,5 @@
 <?php
-   include('connection.php');
+   include('connection2.php');
    if(isset($_POST['token']) && password_verify("signuptoken",$_POST['token']))
      {
      	$name = $_POST['name'];
