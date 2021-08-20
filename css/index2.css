@@ -1,0 +1,63 @@
+{
+	float: left;
+	width: 100%;
+}
+html{
+	background-color: #286090;
+}
+button{
+	background-color: #286090;
+	color: white;
+	height: 40px;
+	padding: 7px 12px;
+	border-radius: 5px;
+	border: 1px solid white;
+}
+.paddoff{
+	background-color: #286090;
+	color: white;
+	padding: 60px 0px;
+	height: 50%;
+	text-align: center;
+}
+.heading{
+	margin: 25px 0px;
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	font-weight: 800;
+}
+.contain{
+	background-color: white;
+	padding: 25px 80px;
+	width: 60%;
+	height: 50%;
+	margin-left: 20%;
+	border-radius: 10px;
+}
+.user_fields{
+	margin: 0px;
+}
+label{
+	margin: 0px;
+	padding-top: 10px;	
+}
+.submit_btn{
+	margin: 25px 0px;
+	padding-top: 50px;
+	text-align: center;
+	color: white;
+}
+input{
+	background-color: red;
+	height: 30px;
+	width: 70px;
+	border-radius: 5px;
+	border: 0px;
+}
+.hidden{
+	display: none;
+}
+.show{
+	display: block;
+}
