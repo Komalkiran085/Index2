@@ -144,7 +144,7 @@
 					$.ajax(
 				{
 					type:'POST',
-					url:"ajax/signup.php",
+					url:"ajax/sign_up2.php",
 					data:{name:name,email:email,phone:phone,gender:gender,password1:password1,cpassword:cpassword,token:token},
 					success:function(data)
 					{
